@@ -1,9 +1,10 @@
+````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=160&section=header&text=Revanth%20P%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Embedded+Systems+Enthusiast;Building+Real+World+Projects+🌿" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Embedded+Systems+Enthusiast;Building+Real+World+Projects" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,10 +17,11 @@
 
 ---
 
-# 🌤️ About Me
+# ◈ About Me
 
 ```bash
 Name        : Revanth P A
+Username    : revanthPA
 Education   : B.Tech Computer Science Engineering
 Passion     : Full Stack Development & Embedded Systems
 Interests   : Networking, System Design, Real-World Engineering
@@ -28,7 +30,7 @@ Goal        : Building impactful technology solutions
 
 ---
 
-# 🌿 Tech Stack
+# ◈ Tech Stack
 
 ## ◈ Languages
 
@@ -79,17 +81,17 @@ Goal        : Building impactful technology solutions
 
 ---
 
-# ☁️ GitHub Stats
+# ◈ GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minecraft-oss&show_icons=true&theme=transparent&title_color=4FC3F7&text_color=87CEEB&icon_color=4FC3F7&border_color=87CEEB"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=revanthPA&show_icons=true&theme=transparent&title_color=4FC3F7&text_color=87CEEB&icon_color=4FC3F7&border_color=87CEEB"/>
 
 <br><br>
 
 <a href="https://git.io/streak-stats">
   <img
-    src="https://streak-stats.demolab.com?user=Minecraft-oss&theme=transparent&background=87CEEB&ring=4FC3F7&fire=29B6F6&currStreakLabel=0277BD&sideLabels=01579B&dates=0288D1&border=B3E5FC&border_radius=12&stroke=4FC3F7"
+    src="https://streak-stats.demolab.com?user=revanthPA&theme=transparent&background=87CEEB&ring=4FC3F7&fire=29B6F6&currStreakLabel=0277BD&sideLabels=01579B&dates=0288D1&border=B3E5FC&border_radius=12&stroke=4FC3F7"
     height="190"
   />
 </a>
@@ -98,29 +100,39 @@ Goal        : Building impactful technology solutions
 
 ---
 
-# 🏆 GitHub Trophies
+# ◈ GitHub Trophies
 
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=Minecraft-oss&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7"
+  src="https://github-profile-trophy.vercel.app/?username=revanthPA&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7"
 />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# ◈ Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minecraft-oss&theme=github-compact&bg_color=0D1117&color=4FC3F7&line=87CEEB&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=revanthPA&theme=github-compact&bg_color=0D1117&color=4FC3F7&line=87CEEB&point=ffffff&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌎 Connect With Me
+# ◈ Current Focus
+
+- Full Stack Web Development
+- Embedded Systems Projects
+- Networking & Security
+- Open Source Contributions
+- Real-World Software Engineering
+
+---
+
+# ◈ Connect With Me
 
 <div align="center">
 
@@ -136,22 +148,13 @@ Goal        : Building impactful technology solutions
 
 ---
 
-# 🌱 Current Focus
-
-- Full Stack Web Development
-- Embedded Systems Projects
-- Networking & Security
-- Open Source Contributions
-- Real-World Software Engineering
-
----
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Minecraft-oss&style=for-the-badge&color=4FC3F7&labelColor=E3F2FD"/>
+<img src="https://komarev.com/ghpvc/?username=revanthPA&style=for-the-badge&color=4FC3F7&labelColor=E3F2FD"/>
 
 <br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
 
 </div>
+````
