@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=170&section=header&text=Revanth%20P%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&font=Source%20Code%20Pro&desc=Computer%20Science%20Engineering%20Student&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=Revanth%20P%20A&fontSize=42&fontColor=00FF41&animation=fadeIn&fontAlignY=35&font=Source%20Code%20Pro&desc=Computer%20Science%20Engineering%20Student&descAlignY=60&descColor=00FF41&descSize=18"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=26&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Initializing+System...;Computer+Science+Student;Full+Stack+Developer;Embedded+Systems+Enthusiast;Building+Real+World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+System...;Computer+Science+Student;Full+Stack+Developer;Embedded+Systems+Enthusiast;Building+Real+World+Projects" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE-E3F2FD?style=for-the-badge&logoColor=4FC3F7&labelColor=87CEEB"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-E3F2FD?style=for-the-badge&logoColor=4FC3F7&labelColor=87CEEB"/>
-  <img src="https://img.shields.io/badge/Focus-Software%20%26%20Systems-E3F2FD?style=for-the-badge&logoColor=4FC3F7&labelColor=87CEEB"/>
+  <img src="https://img.shields.io/badge/B.Tech-CSE-000000?style=for-the-badge&logoColor=00FF41&color=0D1117"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-000000?style=for-the-badge&logoColor=00FF41&color=0D1117"/>
+  <img src="https://img.shields.io/badge/Focus-Software%20%26%20Systems-000000?style=for-the-badge&logoColor=00FF41&color=0D1117"/>
 </p>
 
 </div>
@@ -33,13 +33,13 @@ Goal        : Building impactful technology solutions
 ## <code>Languages</code>
 
 <p>
-<img src="https://img.shields.io/badge/C-E3F2FD?style=for-the-badge&logo=c&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/C++-E3F2FD?style=for-the-badge&logo=cplusplus&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/C%23-E3F2FD?style=for-the-badge&logo=csharp&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Java-E3F2FD?style=for-the-badge&logo=openjdk&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Python-E3F2FD?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/JavaScript-E3F2FD?style=for-the-badge&logo=javascript&logoColor=FBC02D&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Bash-E3F2FD?style=for-the-badge&logo=gnubash&logoColor=0277BD&labelColor=87CEEB"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41"/>
 </p>
 
 ---
@@ -47,12 +47,12 @@ Goal        : Building impactful technology solutions
 ## <code>Frontend_&_Frameworks</code>
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E3F2FD?style=for-the-badge&logo=html5&logoColor=E65100&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/CSS3-E3F2FD?style=for-the-badge&logo=css3&logoColor=1565C0&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/React-E3F2FD?style=for-the-badge&logo=react&logoColor=00BCD4&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Next.js-E3F2FD?style=for-the-badge&logo=nextdotjs&logoColor=000000&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/React_Native-E3F2FD?style=for-the-badge&logo=react&logoColor=00BCD4&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/React_Router-E3F2FD?style=for-the-badge&logo=reactrouter&logoColor=D32F2F&labelColor=87CEEB"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=reactrouter&logoColor=00FF41"/>
 </p>
 
 ---
@@ -60,10 +60,10 @@ Goal        : Building impactful technology solutions
 ## <code>Backend_&_Database</code>
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-E3F2FD?style=for-the-badge&logo=nodedotjs&logoColor=2E7D32&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/MySQL-E3F2FD?style=for-the-badge&logo=mysql&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Firebase-E3F2FD?style=for-the-badge&logo=firebase&logoColor=FFB300&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Supabase-E3F2FD?style=for-the-badge&logo=supabase&logoColor=00C853&labelColor=87CEEB"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FF41"/>
 </p>
 
 ---
@@ -71,10 +71,10 @@ Goal        : Building impactful technology solutions
 ## <code>Embedded_&_IoT</code>
 
 <p>
-<img src="https://img.shields.io/badge/ESP32-E3F2FD?style=for-the-badge&logo=esphome&logoColor=000000&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Arduino-E3F2FD?style=for-the-badge&logo=arduino&logoColor=00897B&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/IoT-E3F2FD?style=for-the-badge&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Cisco-E3F2FD?style=for-the-badge&logo=cisco&logoColor=0277BD&labelColor=87CEEB"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esphome&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=00FF41"/>
 </p>
 
 ---
@@ -82,10 +82,10 @@ Goal        : Building impactful technology solutions
 ## <code>Tools_&_Platforms</code>
 
 <p>
-<img src="https://img.shields.io/badge/Linux-E3F2FD?style=for-the-badge&logo=linux&logoColor=000000&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Git-E3F2FD?style=for-the-badge&logo=git&logoColor=F4511E&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/NPM-E3F2FD?style=for-the-badge&logo=npm&logoColor=C62828&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/VS_Code-E3F2FD?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=87CEEB"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@ Goal        : Building impactful technology solutions
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=RevanthPA&theme=transparent&background=87CEEB&ring=4FC3F7&fire=29B6F6&currStreakLabel=0277BD&sideLabels=01579B&dates=0288D1&border=B3E5FC&border_radius=12&stroke=4FC3F7"
+  src="https://streak-stats.demolab.com?user=RevanthPA&theme=highcontrast&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&border=00FF41&stroke=00FF41"
   height="190"
 />
 
@@ -105,7 +105,7 @@ Goal        : Building impactful technology solutions
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RevanthPA&theme=github-compact&hide_border=true&color=4FC3F7&line=87CEEB&point=E3F2FD)](https://github.com/RevanthPA)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RevanthPA&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true)](https://github.com/RevanthPA)
 
 </div>
 
@@ -116,7 +116,7 @@ Goal        : Building impactful technology solutions
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=RevanthPA&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7"
+  src="https://github-profile-trophy.vercel.app/?username=RevanthPA&theme=matrix&no-frame=true&no-bg=true&margin-w=12&column=7"
 />
 
 </div>
@@ -140,11 +140,11 @@ Goal        : Building impactful technology solutions
 <div align="center">
 
 <a href="https://linkedin.com/in/revanth-p-a-502272320">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4FC3F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 
 <a href="mailto:revanthpa3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail-E3F2FD?style=for-the-badge&logo=gmail&logoColor=D32F2F"/>
+  <img src="https://img.shields.io/badge/Gmail-Mail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
 </a>
 
 </div>
@@ -153,10 +153,10 @@ Goal        : Building impactful technology solutions
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RevanthPA&style=for-the-badge&color=4FC3F7&labelColor=E3F2FD"/>
+<img src="https://komarev.com/ghpvc/?username=RevanthPA&style=for-the-badge&color=00FF41&labelColor=000000"/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=footer"/>
 
 </div>
