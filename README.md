@@ -84,7 +84,7 @@ Goal        : Building impactful technology solutions
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RevanthPA&show_icons=true&theme=transparent&title_color=4FC3F7&text_color=87CEEB&icon_color=4FC3F7&border_color=87CEEB&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RevanthPA&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
