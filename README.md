@@ -1,146 +1,116 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=160&section=header&text=Revanth%20P%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Embedded+Systems+Enthusiast;Building+Real+World+Projects" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE-4FC3F7?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-87CEEB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Software%20%26%20Systems-E3F2FD?style=for-the-badge&logoColor=black"/>
-</p>
-
+<div align="left">
+  <h3>user@github:~$ ./initialize_profile.sh</h3>
+  <p>> Booting system... OK</p>
+  <p>> Loading user data for <b>Revanth P A</b>... OK</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=false&vCenter=false&width=800&lines=>+Computer+Science+Student;>+Full+Stack+Developer;>+Embedded+Systems+Enthusiast;>+Building+Real+World+Projects" alt="Typing SVG" />
 </div>
 
----
+<br>
 
-# ◈ About Me
+## > whoami
 
-```bash
-Name        : Revanth P A
-Username    : RevanthPA
-Education   : B.Tech Computer Science Engineering
-Passion     : Full Stack Development & Embedded Systems
-Interests   : Networking, System Design, Real-World Engineering
-Goal        : Building impactful technology solutions
+```json
+{
+  "name": "Revanth P A",
+  "education": "B.Tech Computer Science Engineering",
+  "status": ["Open to Internships", "Active Developer"],
+  "passions": ["Full Stack Development", "Embedded Systems"],
+  "interests": ["Networking", "System Design", "Real-World Engineering"],
+  "objective": "Building impactful, scalable technology solutions."
+}
 ```
 
----
+<br>
 
-# ◈ Tech Stack
+## > ls -l ./tech_stack/
 
-## ◈ Languages
-
+### /languages/
 <p>
-<img src="https://img.shields.io/badge/C-E3F2FD?style=for-the-badge&logo=c&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/C++-E3F2FD?style=for-the-badge&logo=cplusplus&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/C%23-E3F2FD?style=for-the-badge&logo=csharp&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Java-E3F2FD?style=for-the-badge&logo=openjdk&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/JavaScript-E3F2FD?style=for-the-badge&logo=javascript&logoColor=FBC02D&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Bash-E3F2FD?style=for-the-badge&logo=gnubash&logoColor=0277BD&labelColor=87CEEB"/>
+  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FBC02D"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
 
----
-
-## ◈ Frontend & Frameworks
-
+### /frontend/
 <p>
-<img src="https://img.shields.io/badge/HTML5-E3F2FD?style=for-the-badge&logo=html5&logoColor=E65100&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/CSS3-E3F2FD?style=for-the-badge&logo=css3&logoColor=1565C0&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/React-E3F2FD?style=for-the-badge&logo=react&logoColor=00BCD4&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Next.js-E3F2FD?style=for-the-badge&logo=nextdotjs&logoColor=000000&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/React_Native-E3F2FD?style=for-the-badge&logo=react&logoColor=00BCD4&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/React_Router-E3F2FD?style=for-the-badge&logo=reactrouter&logoColor=D32F2F&labelColor=87CEEB"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E65100"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1565C0"/>
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00BCD4"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=00BCD4"/>
+  <img src="https://img.shields.io/badge/React_Router-000000?style=flat-square&logo=reactrouter&logoColor=CA4245"/>
 </p>
 
----
-
-## ◈ Backend & Database
-
+### /backend_and_db/
 <p>
-<img src="https://img.shields.io/badge/Node.js-E3F2FD?style=for-the-badge&logo=nodedotjs&logoColor=2E7D32&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/MySQL-E3F2FD?style=for-the-badge&logo=mysql&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Firebase-E3F2FD?style=for-the-badge&logo=firebase&logoColor=FFB300&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Supabase-E3F2FD?style=for-the-badge&logo=supabase&logoColor=00C853&labelColor=87CEEB"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
 </p>
 
----
-
-## ◈ Tools & Platforms
-
+### /tools_and_platforms/
 <p>
-<img src="https://img.shields.io/badge/NPM-E3F2FD?style=for-the-badge&logo=npm&logoColor=C62828&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Arduino-E3F2FD?style=for-the-badge&logo=arduino&logoColor=00897B&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Cisco-E3F2FD?style=for-the-badge&logo=cisco&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Linux-E3F2FD?style=for-the-badge&logo=linux&logoColor=000000&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Git-E3F2FD?style=for-the-badge&logo=git&logoColor=F4511E&labelColor=87CEEB"/>
+  <img src="https://img.shields.io/badge/NPM-000000?style=flat-square&logo=npm&logoColor=CB3837"/>
+  <img src="https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino&logoColor=00979D"/>
+  <img src="https://img.shields.io/badge/Cisco-000000?style=flat-square&logo=cisco&logoColor=1BA0D7"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032"/>
 </p>
 
----
+<br>
 
-# ◈ GitHub Stats
+## > ps aux | grep "current_focus"
+
+```bash
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+revanth    001  99.0  10.0  1024  512 tty1     S    08:00   1:00 [Full Stack Web Dev]
+revanth    002  85.0   8.0  2048 1024 tty1     S    08:00   0:45 [Embedded Systems]
+revanth    003  40.0   5.0   512  256 tty1     S    08:00   0:20 [Networking & Security]
+revanth    004  10.0   2.0   256  128 tty1     S    08:00   0:05 [Open Source Commits]
+```
+
+<br>
+
+## > ./fetch_github_metrics.sh
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RevanthPA&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=RevanthPA&theme=transparent&background=87CEEB&ring=4FC3F7&fire=29B6F6&currStreakLabel=0277BD&sideLabels=01579B&dates=0288D1&border=B3E5FC&border_radius=12&stroke=4FC3F7"
-  height="190"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=RevanthPA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&icon_color=00FF00" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=RevanthPA&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF00&sideLabels=00FF00&dates=C9D1D9" height="170"/>
 </div>
 
----
-
-# ◈ GitHub Trophies
+<br>
 
 <div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=RevanthPA&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7"
-/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=RevanthPA&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7" />
 </div>
 
----
+<br>
 
-# ◈ Current Focus
+## > ping -c 3 user.contact
 
-- Full Stack Web Development
-- Embedded Systems Projects
-- Networking & Security
-- Open Source Contributions
-- Real-World Software Engineering
+```bash
+PING user.contact (127.0.0.1): 56 data bytes
+64 bytes from linkedin: seq=0 ttl=64 time=0.042 ms -> [https://linkedin.com/in/revanth-p-a-502272320](https://linkedin.com/in/revanth-p-a-502272320)
+64 bytes from email:    seq=1 ttl=64 time=0.038 ms -> revanthpa3@gmail.com
+```
 
----
+<p>
+  <a href="https://linkedin.com/in/revanth-p-a-502272320">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&logo=linkedin&logoColor=00A0DC"/>
+  </a>
+  <a href="mailto:revanthpa3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail-000000?style=flat-square&logo=gmail&logoColor=EA4335"/>
+  </a>
+</p>
 
-# ◈ Connect With Me
+<hr>
 
-<div align="center">
-
-<a href="https://linkedin.com/in/revanth-p-a-502272320">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4FC3F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:revanthpa3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail-E3F2FD?style=for-the-badge&logo=gmail&logoColor=D32F2F"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=RevanthPA&style=for-the-badge&color=4FC3F7&labelColor=E3F2FD"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=RevanthPA&style=flat-square&color=00FF00&labelColor=000000&label=PROFILE+VIEWS"/>
+  <br>
+  <code>System uptime: 99.99% | User logged in.</code>
 </div>
