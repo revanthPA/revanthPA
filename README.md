@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=160&section=header&text=Revanth%20P%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
