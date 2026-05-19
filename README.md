@@ -1,43 +1,34 @@
 <div align="center">
 
-<!-- Sky Nature Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=140&section=header&text=&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=160&section=header&text=Revanth%20P%20A&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<!-- Name + Animated Intro -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Revanth+P+A+☁️;CS+Student+%7C+Builder+%7C+Explorer;Building+Technology+Inspired+by+Nature;Turning+Ideas+into+Reality+🌿" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Embedded+Systems+Enthusiast;Building+Real+World+Projects+🌿" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech_CSE-2nd_Year-4FC3F7?style=flat-square&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-E0F7FA?style=flat-square&color=E0F7FA&labelColor=4FC3F7"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Real_World_CS_Engineering-E0F7FA?style=flat-square&color=E0F7FA&labelColor=4FC3F7"/>
+  <img src="https://img.shields.io/badge/B.Tech-CSE-4FC3F7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-87CEEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Software%20%26%20Systems-E3F2FD?style=for-the-badge&logoColor=black"/>
 </p>
-
-<br/>
-
-<!-- Nature Divider -->
-<img src="https://i.imgur.com/dBaSKWF.gif"/>
 
 </div>
 
-<br/>
+---
 
-# 🌤️ `$ whoami`
+# 🌤️ About Me
 
-> Second-year B.Tech Computer Science student passionate about building practical technology solutions inspired by creativity, innovation, and real-world engineering.  
-> From embedded systems and networking to full-stack development, I enjoy transforming ideas into meaningful digital experiences.
+```bash
+Name        : Revanth P A
+Education   : B.Tech Computer Science Engineering
+Passion     : Full Stack Development & Embedded Systems
+Interests   : Networking, System Design, Real-World Engineering
+Goal        : Building impactful technology solutions
+```
 
-<br/>
+---
 
-<!-- Divider -->
-<img src="https://i.imgur.com/dBaSKWF.gif"/>
-
-<br/>
-
-# 🌿 `$ ls ./tech-stack`
+# 🌿 Tech Stack
 
 ## ◈ Languages
 
@@ -82,19 +73,19 @@
 <img src="https://img.shields.io/badge/NPM-E3F2FD?style=for-the-badge&logo=npm&logoColor=C62828&labelColor=87CEEB"/>
 <img src="https://img.shields.io/badge/Arduino-E3F2FD?style=for-the-badge&logo=arduino&logoColor=00897B&labelColor=87CEEB"/>
 <img src="https://img.shields.io/badge/Cisco-E3F2FD?style=for-the-badge&logo=cisco&logoColor=0277BD&labelColor=87CEEB"/>
-<img src="https://img.shields.io/badge/Terminal-E3F2FD?style=for-the-badge&logo=windowsterminal&logoColor=455A64&labelColor=87CEEB"/>
+<img src="https://img.shields.io/badge/Linux-E3F2FD?style=for-the-badge&logo=linux&logoColor=000000&labelColor=87CEEB"/>
+<img src="https://img.shields.io/badge/Git-E3F2FD?style=for-the-badge&logo=git&logoColor=F4511E&labelColor=87CEEB"/>
 </p>
 
-<br/>
+---
 
-<!-- Divider -->
-<img src="https://i.imgur.com/dBaSKWF.gif"/>
-
-<br/>
-
-# ☁️ `$ cat ./stats`
+# ☁️ GitHub Stats
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minecraft-oss&show_icons=true&theme=transparent&title_color=4FC3F7&text_color=87CEEB&icon_color=4FC3F7&border_color=87CEEB"/>
+
+<br><br>
 
 <a href="https://git.io/streak-stats">
   <img
@@ -105,14 +96,9 @@
 
 </div>
 
-<br/>
+---
 
-<!-- Divider -->
-<img src="https://i.imgur.com/dBaSKWF.gif"/>
-
-<br/>
-
-# 🏆 `$ ls ./trophies`
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -122,39 +108,50 @@
 
 </div>
 
-<br/>
+---
 
-<!-- Divider -->
-<img src="https://i.imgur.com/dBaSKWF.gif"/>
+# 📈 Contribution Graph
 
-<br/>
-
-# 🌎 `$ connect --with me`
-
-<p align="center">
-  <a href="https://linkedin.com/in/revanth-p-a-502272320">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-E3F2FD?style=for-the-badge&logo=linkedin&logoColor=0277BD&labelColor=87CEEB"/>
-  </a>
-  &nbsp;
-  <a href="mailto:revanthpa3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-E3F2FD?style=for-the-badge&logo=gmail&logoColor=D32F2F&labelColor=87CEEB"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Visitors -->
 <div align="center">
 
-### 🌤️ Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Minecraft-oss&style=for-the-badge&color=4FC3F7&labelColor=E3F2FD"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minecraft-oss&theme=github-compact&bg_color=0D1117&color=4FC3F7&line=87CEEB&point=ffffff&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
-<!-- Footer -->
+# 🌎 Connect With Me
+
 <div align="center">
+
+<a href="https://linkedin.com/in/revanth-p-a-502272320">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4FC3F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:revanthpa3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Mail-E3F2FD?style=for-the-badge&logo=gmail&logoColor=D32F2F"/>
+</a>
+
+</div>
+
+---
+
+# 🌱 Current Focus
+
+- Full Stack Web Development
+- Embedded Systems Projects
+- Networking & Security
+- Open Source Contributions
+- Real-World Software Engineering
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Minecraft-oss&style=for-the-badge&color=4FC3F7&labelColor=E3F2FD"/>
+
+<br><br>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
+
 </div>
